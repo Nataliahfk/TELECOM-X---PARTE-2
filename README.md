@@ -1,4 +1,5 @@
 📉 Telecom X – Predicción de Cancelación de Clientes (Churn Prediction)
+
 Proyecto de análisis y modelado predictivo para anticipar la cancelación de clientes en una empresa de telecomunicaciones. Utiliza técnicas de machine learning, 
 análisis exploratorio y herramientas de interpretabilidad como SHAP, con el objetivo de entender los factores que influyen en el abandono y proponer estrategias 
 de retención efectivas.
